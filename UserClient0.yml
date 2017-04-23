@@ -1,0 +1,9 @@
+bootrbt:
+  kafka:
+    binder:
+      brokers: localhost:9092
+      zk-nodes: localhost:2181
+    group: rbt-group
+testaname: testname    
+    
+    
